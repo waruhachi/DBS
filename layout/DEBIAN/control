@@ -1,0 +1,9 @@
+Package: moe.waru.dbs
+Name: DBS Digibank
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Bypass DBS Digibank jailbreak detection
+Maintainer: waruhachi
+Author: waruhachi
+Section: Tweaks
+Depends: mobilesubstrate
